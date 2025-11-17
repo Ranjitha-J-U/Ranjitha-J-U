@@ -8,7 +8,7 @@
 - 🔭 I’m a **Full Stack Developer**  
 - 💛 Strongly focused on **Java & Spring Boot backend**  
 - 🎨 Love building **clean UI + scalable backend systems**  
-- 🌱 Currently learning **Microservices & Cloud**  
+- 🌱 Eager to explore and deepen my knowledge in Microservices & Cloud technologies
 - 🤝 Open to **internships and full-time developer roles**
 
 ---
@@ -17,6 +17,8 @@
 <div>
   <img src="https://img.shields.io/badge/Java-F59E0B?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
