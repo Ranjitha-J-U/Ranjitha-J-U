@@ -33,7 +33,7 @@
 ### 📫 Contact  
 - **Email:** ranjitha827568@gmail.com || ranjithaju4@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/ranjitha-j-u-0660bb326/
-- **GitHub:** github.com/Ranjitha-J-U/
+- **GitHub:** https://github.com/Ranjitha-J-U
 
 ---
 
