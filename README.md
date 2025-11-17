@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/Java-F59E0B?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
@@ -32,7 +31,7 @@
 ---
 
 ### 📫 Contact  
-- **Email:** your-email@example.com  
+- **Email:** ranjitha827568@gmail.com || ranjithaju4@gmail.com
 - **LinkedIn:** linkedin.com/in/your-profile  
 - **GitHub:** github.com/yourusername  
 
