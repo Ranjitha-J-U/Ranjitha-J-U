@@ -13,11 +13,11 @@ Results-driven developer skilled in building scalable backend systems and clean,
 ---
 
 ## 🚀 About Me  
-- 💼 Aspiring **Full Stack / Java Backend Developer**  
-- ⚙️ Strong expertise in **Java, Spring Boot, REST APIs, MySQL**  
+- 💼 Aspiring **Full Stack / Java Backend Developer/ FrontEnd developer**  
+- ⚙️ Strong expertise in **Java, Spring Boot, REST APIs, Spring Security, JWT, MySQL, Python, React.js**  
 - 🎯 Passionate about building **efficient, secure & production-ready applications**  
-- 🌱 Currently learning **Microservices, Spring Security, JWT, Docker & Cloud**  
-- 🧩 Interested in **system design, API architecture, and scalable backend development**  
+- 🌱 Currently learning **Microservices, Docker & Cloud**  
+- 🧩 Interested in **system design, API architecture, scalable backend development and FrontEnd development**  
 - 🤝 Actively seeking **internships or full-time developer opportunities**
 
 ---
@@ -36,15 +36,22 @@ Results-driven developer skilled in building scalable backend systems and clean,
 
 ---
 
-## 📌 Featured Projects (Recruiter-Friendly)
-- 🛍️ **Premium Formal Wear Shop** — React + Node  
-  *E-commerce UI, reusable components, product filtering*
+## 📌 Featured Projects
 
-- 🗂️ **TaskManager API** — Java + Spring Boot + PostgreSQL  
-  *CRUD operations, layered architecture, exception handling*
+🛍️ E-Commerce Management System — React + Spring Boot + MySQL
+Product listing, filtering, authentication, cart management, full-stack architecture
 
-- 📝 **Portfolio + Blog** — React + Markdown  
-  *Clean UI, SEO optimized, responsive design*
+🧾 FashionHub (Frontend Store UI) — React
+Reusable components, responsive design, modern e-commerce UI
+
+🔐 User Authentication & Registration System — Java + Spring Boot
+Login/registration APIs, validation, secure authentication workflow
+
+📝 Portfolio Website — React + Markdown
+Clean UI, SEO optimized, responsive design, project showcase
+
+🧮 MyCalculator — Java, Thymleaf
+Basic arithmetic logic, clean UI, event handling
 
 ---
 
